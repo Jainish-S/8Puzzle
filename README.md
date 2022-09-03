@@ -1,5 +1,8 @@
 # 8Puzzle
+
 Classic 8 Puzzle problem solved using blind search algo dfs &amp; bfs with visualization.
+
+- Used graphviz library to make the tree.
 
 ### Example
 
@@ -18,5 +21,7 @@ end_state = [
 ]
 
 ```
+
+## Search Space
 
 ![BFS](./BFS.gv.svg)
