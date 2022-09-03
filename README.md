@@ -25,3 +25,6 @@ end_state = [
 ## Search Space
 
 ![BFS](./BFS.gv.svg)
+
+# TODO
+- Add heuristic search algorithm like A<sup>*</sup>
